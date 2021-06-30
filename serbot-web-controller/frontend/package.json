@@ -2,6 +2,7 @@
   "name": "serbot-controller-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/static/build/",
   "dependencies": {
     "axios": "^0.21.1",
     "install": "^0.13.0",
